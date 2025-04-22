@@ -1,11 +1,7 @@
-
-
-<h1 align="center">Hi 👋, I'm Protyush Ghorui</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=competitive7coder&label=Profile%20views&color=0e75b6&style=flat" alt="competitive7coder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=competitive7coder" alt="competitive7coder" /></a> </p>
+<img align="center" height="200" width="1000" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
+<h1 align="center">Hello👋, Myself Protyush Ghorui</h1>
+<h2 align="center">A passionate Frontend Developer from India</h3>
+<img align="right" alt="coding" height="450"width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t2ODA4ZHAxbHdsa2xoNzcwYjUyenM1MGQ3d3UycG1hdTJmNnk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 - 🔭 I’m currently working on [My Personal Portfolio](joyful-cupcake-ba3256.netlify.app)
 
@@ -25,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/protyush-ghorui-6121b0316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="protyush-ghorui-6121b0316" height="50" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
