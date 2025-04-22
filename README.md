@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [The Campus Cart](e-commerce-website-for-students-jft3yjdip.vercel.app)
 
-- 🤝 I’m looking for help with [The Campus Cart](e-commerce-website-for-students-jft3yjdip.vercel.app)
+- 🤝 I’m looking for help with [The Campus Cart](https://github.com/competitive7coder/ECommerce_Website_For_Students)
 
 - 👨‍💻 All of my projects are available at [https://github.com/competitive7coder/competitive7coder](https://github.com/competitive7coder/competitive7coder)
 
