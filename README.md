@@ -29,4 +29,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=competitive7coder&show_icons=true&locale=en&layout=compact" alt="competitive7coder" /></p>
+
