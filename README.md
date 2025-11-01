@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on [The Campus Cart](https://github.com/competitive7coder/ECommerce_Website_For_Students)
+- 👯 I’m looking to collaborate on [StreamHub](https://stream-hub-one.vercel.app/)
 
 - 👀 View live from here  [The Campus Cart](https://e-commerce-website-for-students.netlify.app/)
 
