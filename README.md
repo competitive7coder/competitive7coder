@@ -5,17 +5,15 @@
 
 - 🔭 I’m currently working on [StreamHub- A Movie Search Engine With recommendation](https://stream-hub-one.vercel.app/)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Fastapi**
 
 - 👯 I’m looking to collaborate on [StreamHub](https://stream-hub-one.vercel.app/)
 
-- 👀 View live from here  [The Campus Cart](https://e-commerce-website-for-students.netlify.app/)
+- 👀 Want to view my work? Visit here [Kernel](https://dev-protyush.vercel.app/)
 
 - 👨‍💻 All of my projects are available at (https://github.com/competitive7coder?tab=repositories)
 
-- 💬 Ask me about **JavaScript, Java**
-
-- 📫 How to reach me **ghorui.protyushraj@gmail.com**
+- 📫 How to reach me **ghorui.protyushraj@gmail.com** OR [click](https://dev-protyush.vercel.app/)
 
 - ⚡ Fun fact **I think I am funny**
 
