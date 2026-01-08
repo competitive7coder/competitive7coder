@@ -1,6 +1,6 @@
 <img align="center" height="200" width="1000" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 <h1 align="left">Hello👋, Myself Protyush Ghorui</h1>
-<h2 align="left">A passionate Frontend Developer from India</h3>
+<h2 align="left">A passionate Full Stack Dev from India</h3>
 <img align="right" alt="coding" height="400"width="480" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t2ODA4ZHAxbHdsa2xoNzcwYjUyenM1MGQ3d3UycG1hdTJmNnk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 - 🔭 I’m currently working on [StreamHub- A Movie Search Engine With recommendation](https://stream-hub-one.vercel.app/)
