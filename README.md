@@ -1,4 +1,8 @@
 <img align="center" height="200" width="1000" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=competitive7coder&color=blue&style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=38&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Freelancer&repeat=true&cursor=true" alt="Typing SVG" />
+
 <h1 style="
   font-size: 36px;
   font-weight: 900;
