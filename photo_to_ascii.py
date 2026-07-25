@@ -9,8 +9,8 @@ from rembg import remove
 SRC = sys.argv[1] if len(sys.argv) > 1 else "photo.jpg"
 COLS = 80
 ASPECT = 0.85
-DETAIL = 2.6
-WEIGHT = 0.65
+DETAIL = 3.2
+WEIGHT = 0.5
 BUST = 1.0
 RAMP = "@$B%8&WM#*oahkbdpqwmZO0QLCJUXYzcvuxrjft/|()1{}[]?-_+~<>i!lI;:,\"^`'. "
 KEEP_FULL_IMAGE = False  # Set to False to remove background and crop to bust
