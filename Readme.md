@@ -10,10 +10,10 @@
 
 <br/>
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
-### 🐍 Contribution Snake
+
 ![snake gif](https://raw.githubusercontent.com/competitive7coder/competitive7coder/output/github-snake-dark.svg)
