@@ -7,10 +7,10 @@ from PIL import Image, ImageFilter, ImageOps
 from rembg import remove
 
 SRC = sys.argv[1] if len(sys.argv) > 1 else "photo.jpg"
-COLS = 80
+COLS = 95
 ASPECT = 0.85
-DETAIL = 3.2
-WEIGHT = 0.5
+DETAIL = 2.8
+WEIGHT = 0.6
 BUST = 1.0
 RAMP = "@$B%8&WM#*oahkbdpqwmZO0QLCJUXYzcvuxrjft/|()1{}[]?-_+~<>i!lI;:,\"^`'. "
 KEEP_FULL_IMAGE = False  # Set to False to remove background and crop to bust
